@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0048/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 是法非法經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0048.xml
+    old_id: T01n0048
+hash: sha256:2380da50ba1f588db911fe849a28e41db5ad4d551bd63c97f5da629cab140c0b

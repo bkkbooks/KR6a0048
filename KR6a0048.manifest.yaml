@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6a0048/v1
+canonical_location: https://kanripo.org/bkk/KR6a0048/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 是法非法經
+  identifiers:
+    alt_id:
+    - T01n0048
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0048.xml
+    old_id: T01n0048
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0048_000.yaml, hash: 'sha256:2380da50ba1f588db911fe849a28e41db5ad4d551bd63c97f5da629cab140c0b'}
+  - {seq: 1, filename: KR6a0048_001.yaml, hash: 'sha256:50cc1a1bfe3e51a66eb4fe978c40b271e8a0ec2c52a02d674a7a6759c559b786'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0048_001.markers.yaml, hash: 'sha256:70bf8720bf1be729dc9dd97e4cc8e21eb6b1f5c084acd74e8757cf85986b860a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0048_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1334
+  label: 佛說是法非法經出《中阿含》
+  type: juan
+  level: 1
+hash: sha256:c6ae9daded2ea88ccd47d0854b939a4ae99369b96785977c8c7ebcbb5643de2d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
