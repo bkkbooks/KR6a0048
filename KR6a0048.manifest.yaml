@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0048_000.yaml, hash: 'sha256:2380da50ba1f588db911fe849a28e41db5ad4d551bd63c97f5da629cab140c0b'}
-  - {seq: 1, filename: KR6a0048_001.yaml, hash: 'sha256:50cc1a1bfe3e51a66eb4fe978c40b271e8a0ec2c52a02d674a7a6759c559b786'}
+  - {seq: 1, filename: KR6a0048_001.yaml, hash: 'sha256:7988dd498e1537d4c011682080b38d01acdb94df37c143538cc85284733396da'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0048_001.markers.yaml, hash: 'sha256:70bf8720bf1be729dc9dd97e4cc8e21eb6b1f5c084acd74e8757cf85986b860a'}
+  - {seq: 0, role: markers, filename: assets/KR6a0048_000.markers.yaml, hash: 'sha256:8c3d616d814d7f8cbba1069254d8e34161363dc0d45aaafc2c3624e4f72de47c'}
+  - {seq: 1, role: markers, filename: assets/KR6a0048_001.markers.yaml, hash: 'sha256:e55ea2ca87a5c83cfc9381c4a4521fd9a0c7fe0fd485e62088740269d2c48eeb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說是法非法經出《中阿含》
   type: juan
   level: 1
-hash: sha256:c6ae9daded2ea88ccd47d0854b939a4ae99369b96785977c8c7ebcbb5643de2d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:174641213a76aaa1539d0e86ff837948a69bbaacd66e10ef52113332eb3d6288
