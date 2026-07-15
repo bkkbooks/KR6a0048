@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0048/v1
 canonical_location: https://kanripo.org/bkk/KR6a0048/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 是法非法經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0048_000.yaml, hash: 'sha256:2380da50ba1f588db911fe849a28e41db5ad4d551bd63c97f5da629cab140c0b'}
-  - {seq: 1, filename: KR6a0048_001.yaml, hash: 'sha256:7988dd498e1537d4c011682080b38d01acdb94df37c143538cc85284733396da'}
+  - {seq: 1, filename: KR6a0048_001.yaml, hash: 'sha256:f553a566e9cddc268348944534531c519643fb15a56ba6e555b079f07eb79baa'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0048_000.markers.yaml, hash: 'sha256:8c3d616d814d7f8cbba1069254d8e34161363dc0d45aaafc2c3624e4f72de47c'}
-  - {seq: 1, role: markers, filename: assets/KR6a0048_001.markers.yaml, hash: 'sha256:e55ea2ca87a5c83cfc9381c4a4521fd9a0c7fe0fd485e62088740269d2c48eeb'}
+  - {seq: 1, role: markers, filename: assets/KR6a0048_001.markers.yaml, hash: 'sha256:36dc8133d97a6f022bcce4f57485f8d7299d6e2cc0850634f9e895151e501569'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說是法非法經出《中阿含》
   type: juan
   level: 1
-hash: sha256:174641213a76aaa1539d0e86ff837948a69bbaacd66e10ef52113332eb3d6288
+hash: sha256:d7b3d1a31d09183a5fe6f0b72e0ae3c226d2238ed7aa4d16f8befc7c2eb63dd6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
