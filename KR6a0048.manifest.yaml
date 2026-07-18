@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6a0048_000.yaml, hash: 'sha256:2380da50ba1f588db911fe849a28e41db5ad4d551bd63c97f5da629cab140c0b'}
   - {seq: 1, filename: KR6a0048_001.yaml, hash: 'sha256:f553a566e9cddc268348944534531c519643fb15a56ba6e555b079f07eb79baa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0048_000.markers.yaml, hash: 'sha256:8c3d616d814d7f8cbba1069254d8e34161363dc0d45aaafc2c3624e4f72de47c'}
+  - {seq: 0, role: markers, filename: assets/KR6a0048_000.markers.yaml, hash: 'sha256:74883c858cecf3e7dc81f90e7a06397a1505122d0d33a9e28486105338ae4d21'}
   - {seq: 1, role: markers, filename: assets/KR6a0048_001.markers.yaml, hash: 'sha256:36dc8133d97a6f022bcce4f57485f8d7299d6e2cc0850634f9e895151e501569'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 佛說是法非法經出《中阿含》
   type: juan
   level: 1
-hash: sha256:d7b3d1a31d09183a5fe6f0b72e0ae3c226d2238ed7aa4d16f8befc7c2eb63dd6
+hash: sha256:ef1da4b378053c9a8c0a6c12a724a6366d356ad684ef2a370a3860629771c8ca
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
